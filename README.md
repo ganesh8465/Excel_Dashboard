@@ -72,4 +72,8 @@ After that, In the Input reference box select the range (“Sales Data!D1: D5129
 Bin Range Reference box select (“Working!K3: K7”).In the Output section, select range “Working!N3” for a binning table,
 click Histogram checkbox and then ok.
 
-Note: Sample output is given, please make it a meticulous as per the project statement.
+Note: Sample output is given below, please make it a meticulous as per the project statement.
+
+
+![sample'](https://github.com/ganesh8465/Excel_Dashboard/assets/60468999/651e61f2-b602-4903-8dc7-656e97a71f8d)
+
